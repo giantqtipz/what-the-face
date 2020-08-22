@@ -1,0 +1,33 @@
+* {
+    font-family: 'Arial';
+}
+
+body {
+    text-align: center;
+    width: 100%;
+    min-width: 1300px;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+.headers {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.headers p {
+    margin-right: 4%;
+}
+
+img {
+    position : absolute;
+}
+
+.nose {
+    width: 130px;
+}
+
+.ear {
+    width: 180px
+}
